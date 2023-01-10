@@ -10,24 +10,4 @@
 | runtime-dom   | 运行时的dom |
 
 ## 阅读方式
-
-根据Demo一步一步了解代码之间的关联
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<div id="app"></div>
-</body>
-<script src="../dist/vue.global.js"></script>
-<script>
-    const app = Vue.createApp();
-    app.mount('#app');
-</script>
-</html>
-```
-
+暂时忽略Dev时和针对vue2 兼容的代码
