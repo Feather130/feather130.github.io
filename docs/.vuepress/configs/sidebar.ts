@@ -6,6 +6,7 @@ export const sidebar = {
             children: [
                 '/notes/vue3/index.md',
                 '/notes/vue3/createApp.md',
+                '/notes/vue3/mount.md',
             ]
         }
     ]
